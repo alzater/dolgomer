@@ -1,0 +1,2 @@
+class AutomobileRoutesController < ApplicationController
+end
